@@ -4,6 +4,7 @@ Display your discord vouches on your website.
 ## To Do
 - [ ] Clean up the code
 - [ ] Enhance the visual appeal
+- [ ] Switch to sql database
 - [x] Display vouches in real time
 - [ ] Implement a user-friendly function to easily remove vouches from the list
 - [x] Provide an set-up tutorial
